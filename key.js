@@ -1,9 +1,9 @@
 {
-  "secretCode": "YOS-MD",
+  "secretCode": "flean x yos",
   "description": "PREMIUM KEY", 
   "lastUpdated": "20-01-2025",
-  "author": "YOS-OFFC", 
+  "author": "FLEAN X YOS", 
   "status": "Active",
   "license": "MIT",
-  "version": "1.0.0"
+  "version": "3.0.0"
 }
