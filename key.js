@@ -1,5 +1,5 @@
 {
-  "secretCode": "YOS-WANGSAF",
+  "secretCode": "YOS-999",
   "description": "PREMIUM KEY", 
   "lastUpdated": "2025-04-04",
   "author": "YOS-999 ", 
